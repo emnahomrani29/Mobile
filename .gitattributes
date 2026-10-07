@@ -1,0 +1,15 @@
+# Force GitHub to detect this as a Dart/Flutter project
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cc linguist-vendored
+*.cmake linguist-vendored
+*.gradle linguist-vendored
+*.gradle.kts linguist-vendored
+*.swift linguist-vendored
+*.kt linguist-vendored
+*.pbxproj linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
